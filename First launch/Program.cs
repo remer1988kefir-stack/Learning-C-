@@ -34,4 +34,3 @@ else
 {
     Console.WriteLine("Статус: Взрослый");
 }
-1
